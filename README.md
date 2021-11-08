@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-[![Niranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=niranjan-10)](https://github.com/anuraghazra/github-readme-stats)
+[![Niranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=niranjan-10)](https://github.com/niranjan-10)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niranjan-10&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
