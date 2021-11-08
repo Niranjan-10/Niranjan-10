@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 [![Niranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=niranjan-10)](https://github.com/niranjan-10)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niranjan-10)](https://github.com/niranjan-10)
+
 
 
 
