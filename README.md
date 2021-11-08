@@ -2,7 +2,8 @@
 
 [![Niranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=niranjan-10)](https://github.com/niranjan-10)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niranjan-10)](https://github.com/niranjan-10)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=niranjan-10)](https://github.com/niranjan-10)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=niranjan-10)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
